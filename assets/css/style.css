@@ -1,4 +1,4 @@
-body {
+/*body {
     color: #777777;
     background-image: url("../images/gravel.png");
     background-repeat: repeat;
@@ -160,4 +160,16 @@ footer {
 #fix {
     position: relative;
     bottom: 0;
+}*/
+
+.tag {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    top: 70%;
+    left: 0;
+    width: 100%;
+    background-color: #17a2b8;
 }
